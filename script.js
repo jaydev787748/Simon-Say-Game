@@ -4,6 +4,8 @@ let userSeq = [];
 let level = 0;
 let started = false;
 
+// starting .. 
+
 let colors = ["red", "green", "blue", "yellow"];
 let h2 = document.querySelector("h2");
 let body = document.querySelector("body");
