@@ -16,7 +16,7 @@ document.addEventListener("keydown", function () {
     }
 });
 
-// Level up
+// Level up ++
 function levelUp() {
     userSeq = [];
     level++;
